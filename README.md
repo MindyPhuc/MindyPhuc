@@ -1,5 +1,5 @@
 - Hi, I’m Mindy Huynh
-- I’m a fresh graduate in Computer Programmer from Seneca College
+- I’m a graduate in Computer Programmer from Seneca College
 - 💞️ I’m currently looking for an entry-level job as a Junior Developer.
 - 📫 Reach me at https://mindyphuc.github.io
 
